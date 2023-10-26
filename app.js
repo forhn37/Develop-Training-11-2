@@ -31,3 +31,6 @@ function validataId(id) {
 }
 return false;
 }
+
+console.log(validataId("kimhyun"));
+console.log(validataId("sdfa1234"));
